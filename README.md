@@ -27,4 +27,5 @@
 * **Johan sneider penagos caviedes**
 * **Sara Sofia Monataña Rodriguez**
 * **Samuel Esteban Guaqueta Virgüez**
-* ****
+* **Laura Sofía Acosta Pacanchique**
+* **Sachell Sofia Suarez Torres**
