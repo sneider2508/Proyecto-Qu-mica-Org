@@ -1,11 +1,11 @@
 <div align="center">
 
-# ⚗️ Proyecto de Química Orgánica - Grupo 7🧪
+# ⚗️ Proyecto de Química Orgánica - Grupo 1🧪
 
 ![Curso](https://img.shields.io/badge/Materia-Qu%C3%ADmica%20Org%C3%A1nica-blue?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Terminado-success?style=for-the-badge)
 
-**Bienvenido al repositorio oficial del Grupo 7.**  
+**Bienvenido al repositorio oficial del Grupo 1.**  
 *Explora los resultados experimentales, gráficos y documentación de nuestra investigación.*
 
 </div>
