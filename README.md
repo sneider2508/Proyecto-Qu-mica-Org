@@ -26,5 +26,5 @@
 
 * **Johan sneider penagos caviedes**
 * **Sara Sofia Monataña Rodriguez**
-* ** Samuel Esteban Guaqueta Virgüez**
+* **Samuel Esteban Guaqueta Virgüez**
 * ****
