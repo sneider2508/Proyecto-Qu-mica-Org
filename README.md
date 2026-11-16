@@ -25,5 +25,6 @@
 ## 👩‍🔬 Integrantes
 
 * **Johan sneider penagos caviedes**
+* **Sara Sofia Monataña Rodriguez**
 * ****
 * ****
