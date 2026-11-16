@@ -17,7 +17,7 @@
 | Sección | Descripción | Acceso |
 | :--- | :--- | :---: |
 | 📊 **Datos** | Tablas exel de resultados, mediciones y registros . | [Abrir carpeta](./Datos) |
-| 📈 **Análisis Visual** | Gráficos, espectros y comparativas procesadas. | [Abrir carpeta](./Analisis_Visual) |
+| 📈 **Análisis Grafico** | Gráficos, espectros y comparativas procesadas. | [Abrir carpeta](./Análisisgráfico) |
 | 📄 **Documentación** | Informe latex , protocolos y bibliografía del estudio y presentacion. | [Abrir carpeta](./Documentacion) |
 
 ---
